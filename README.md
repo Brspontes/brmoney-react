@@ -12,7 +12,7 @@ This APP is development with React and this is second weak in Rocketseat
 <ol>
 	<li><a href="https://reactjs.org/">React</a></li>
 	<li><a href="https://www.typescriptlang.org/">Type Script</a></li>
-		<li><a href="https://miragejs.com/">MirageJs</a></li>
+	<li><a href="https://miragejs.com/">MirageJs</a></li>
 </ol>
 
 <h2>Usage</h2>
